@@ -38,7 +38,7 @@ This project quantifies and analyses the micronutrient supply and average micron
 
 ## Requirements
 
-- **Software:** R, Microsoft Excel, PRIMER (used for multivariate analysis)
+- **Software:** R, Microsoft Excel, PRIMER (used for multivariate analysis) - **PRIMER7** (proprietary software, not included; requires a valid license from PRIMER-e).
   
 
 ---
