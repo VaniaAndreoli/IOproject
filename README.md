@@ -45,6 +45,6 @@ This project quantifies and analyses the micronutrient supply and average micron
 ## How to Cite
 
 Please cite the manuscript as follows:  
-*coming soon*
+*in press, details to follow*
 
 ---
