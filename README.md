@@ -22,7 +22,8 @@ Primary Data: Processed data on catch composition, micronutrient content, ex-ves
 Raw Data: Raw or external datasets (e.g., Sea Around Us, FishBase) are not included due to size or licensing but are referenced and instructions for access are provided.
 
 
-Folder Structure
+Folder Structure:
+
 data/: Contains processed data files used for analysis (e.g., .csv, .xlsx).
 
 code/: Contains scripts for data processing, analysis, and visualization.
