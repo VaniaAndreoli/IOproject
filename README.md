@@ -48,3 +48,6 @@ Please cite the manuscript as follows:
 *in press, details to follow*
 
 ---
+## Licence
+
+CC BY-NC-ND
