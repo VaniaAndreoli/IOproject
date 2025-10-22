@@ -45,7 +45,8 @@ This project quantifies and analyses the micronutrient supply and average micron
 ## How to Cite
 
 Please cite the manuscript as follows:  
-*in press, details to follow*
+Andreoli V, Meeuwig JJ, Golden CD, Zamborain‐Mason J, Elsler LG, Palomares MLD and Zeller D (2025) Quantifying the nutritional and socio‐ecological dimensions of Indian Ocean fisheries. Fish and Fisheries 26(5): 909-922. https://doi.org/10.1111/faf.70008
+
 
 ---
 ## Licence
