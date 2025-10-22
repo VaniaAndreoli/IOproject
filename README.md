@@ -11,7 +11,7 @@ Vania Andreoli<sup>1,2</sup>, Jessica J. Meeuwig<sup>2</sup>, Christopher D. Gol
 <sup>5</sup> Sea Around Us, Institute for the Oceans and Fisheries, The University of British Columbia, Vancouver, British Columbia, Canada
 
 **Correspondence:**  
-For questions or issues, contact Vania Andreoli at vania.andreoli@research.uwa.edu.au
+For questions or issues, contact Vania Andreoli at vania.andreoli@research.uwa.edu.au or andreoli.vany@gmail.com
 
 ---
 
